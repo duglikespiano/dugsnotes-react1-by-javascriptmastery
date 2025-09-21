@@ -15,7 +15,7 @@
 
 - Project タイトル : dugsnotes_react_by_javascriptmastery
 - 関連 URL : https://youtu.be/jx5hdo50a2M?si=aJAwwhh1nnIgoyb-
-- 期間 : 2025.09.18 - 進行中
+- 期間 : 2025.09.18 - 2025.09.22
 - 人員 : 1 人
 - 技術スタック : </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">

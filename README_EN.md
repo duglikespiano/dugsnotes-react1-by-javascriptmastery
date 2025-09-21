@@ -15,7 +15,7 @@
 
 - Project title : dugsnotes_react_by_javascriptmastery
 - Related URL : https://youtu.be/jx5hdo50a2M?si=aJAwwhh1nnIgoyb-
-- Period : Sep 18 2025 - in progress
+- Period : Sep 18 2025 - Sep 22 2025
 - Member(s) : Dug Park
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
