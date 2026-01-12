@@ -1984,7 +1984,7 @@ export const ordersData = [
 		Location: 'USA',
 		Status: 'pending',
 		StatusBg: '#FB9678',
-		ProductImage: 'https://cdn.shopclues.com/images1/thumbnails/104158/320/320/148648730-104158193-1592481791.jpg',
+		ProductImage: product8,
 	},
 	{
 		OrderID: 874534,
